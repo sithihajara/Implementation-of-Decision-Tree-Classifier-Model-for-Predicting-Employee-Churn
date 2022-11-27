@@ -1,4 +1,8 @@
-# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+1. Import the required packages.
+2. Read the data set.
+3. Apply label encoder to the non-numerical column inoreder to convert into numerical values.
+4. Determine training and test data set.
+5. Apply decision tree Classifier and get the values of accuracy and data prediction.# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
@@ -12,13 +16,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Read the data set.
 3. Apply label encoder to the non-numerical column inoreder to convert into numerical values.
 4. Determine training and test data set.
-5.Apply decision tree Classifier and get the values of accuracy and data prediction.
+5. Apply decision tree Classifier and get the values of accuracy and data prediction.
 
 ## Program:
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Sithi hajara I
+Developed by: Sithi Hajara I
 RegisterNumber:  212221230102
 */
 ```
